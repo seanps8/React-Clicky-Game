@@ -12,7 +12,7 @@ const Navbar = props => {
 
         <li id="rw">{props.rightWrong}</li>
 
-        <li id="score">Score: {props.score} | Top Score: {props.topScore}</li>
+        <li id="score">Score: {props.currentScore} | Top Score: {props.topScore}</li>
       </ul>
       
       

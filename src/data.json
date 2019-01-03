@@ -76,16 +76,6 @@
     },
     {
         "id": 16,
-        "image": "assets/images/Tigers.PNG",
-        "clicked": false
-    },
-    {
-        "id": 17,
-        "image": "assets/images/whiteSox.PNG",
-        "clicked": false
-    },
-    {
-        "id": 18,
         "image": "assets/images/Yankees.PNG",
         "clicked": false
     }
